@@ -1,0 +1,145 @@
+Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,classification,cluster
+1,1,female,38.0,1,0,0.1391357353826406,C,female survided,0
+1,1,female,35.0,1,0,0.1036442974556203,S,female survided,0
+0,1,male,54.0,0,0,0.101228858320002,S, younger men  not survival,1
+1,3,female,4.0,1,1,0.032596229143293,S,female survided,2
+1,1,female,58.0,0,0,0.0518221487278101,S,female survided,1
+1,2,male,34.0,0,0,0.0253743101115454,S,male survided,0
+1,1,male,28.0,0,0,0.0692913853046049,S,male survided,0
+0,1,male,19.0,3,2,0.5133418122566507,S, younger men  not survival,2
+1,1,female,49.0,1,0,0.1497654242623688,C,female survided,1
+0,1,male,65.0,0,1,0.1209753416358076,C, younger men  not survival,1
+0,1,male,45.0,1,0,0.1629323489662505,S, younger men  not survival,1
+1,2,female,29.0,0,0,0.0204946350900944,S,female survided,0
+0,3,male,25.0,0,0,0.0149318055656402,S, younger men  not survival,2
+0,1,male,46.0,1,0,0.1194056477749072,S, younger men  not survival,1
+0,1,male,71.0,0,0,0.0676404936513476,C, younger men  not survival,1
+1,1,male,23.0,0,1,0.1236671655646408,C,male survided,2
+0,1,male,21.0,0,1,0.1508551532881592,S, younger men  not survival,2
+0,1,male,47.0,0,0,0.1014972404461818,S, younger men  not survival,1
+0,1,male,24.0,0,1,0.4831284260198326,C, younger men  not survival,2
+1,2,female,32.5,0,0,0.0253743101115454,S,female survided,0
+1,1,female,19.0,0,2,0.0513015849965217,S,female survided,2
+0,1,male,24.0,0,0,0.1545881046795693,C, younger men  not survival,2
+0,2,male,36.5,0,2,0.0507486202230909,S, younger men  not survival,0
+1,1,female,22.0,1,0,0.1299945425714559,S,female survided,2
+0,1,male,61.0,0,0,0.065387645287444,S, younger men  not survival,1
+0,1,male,56.0,0,0,0.0599142114093828,C, younger men  not survival,1
+0,1,female,50.0,0,0,0.0560430676213653,C, younger not women survival,1
+1,2,male,1.0,2,1,0.0761229303346364,S,male survided,2
+1,1,female,44.0,0,0,0.0541073981338561,C,female survided,0
+1,1,female,58.0,0,0,0.2859895551532101,C,female survided,1
+0,3,female,2.0,0,1,0.0204214399647726,S, younger not women survival,2
+1,1,male,40.0,0,0,0.060507970265993,C,male survided,0
+1,1,female,31.0,1,0,0.2210980752219471,C,female survided,0
+1,1,female,32.0,0,0,0.1489114811336148,C,female survided,0
+1,1,male,38.0,1,0,0.1756683007722378,S,male survided,0
+0,1,male,44.0,2,0,0.1756683007722378,Q, younger men  not survival,0
+1,1,male,37.0,1,1,0.1025789668049371,S,male survided,0
+0,1,male,62.0,0,0,0.0518221487278101,S, younger men  not survival,1
+1,1,female,30.0,0,0,0.1688367557422063,S,female survided,0
+0,1,male,52.0,1,1,0.1554664461834305,S, younger men  not survival,1
+0,1,male,40.0,0,0,0.0,S, younger men  not survival,0
+1,1,female,58.0,0,1,0.2995388511917728,S,female survided,1
+1,1,female,35.0,0,0,0.2647385704347907,S,female survided,0
+0,1,male,37.0,0,1,0.0579705392548384,C, younger men  not survival,0
+1,1,female,63.0,1,0,0.1521644676899149,S,female survided,1
+1,1,female,19.0,1,0,0.1777747588854978,C,female survided,2
+0,2,male,36.0,0,0,0.0251303263604729,C, younger men  not survival,0
+0,1,female,2.0,1,2,0.2958058998003627,S, younger not women survival,2
+1,1,female,17.0,1,0,0.2125586439344078,C,female survided,2
+1,1,female,30.0,0,0,0.1111183980924764,C,female survided,0
+1,1,female,24.0,0,0,0.1623141917345331,C,female survided,2
+1,1,female,18.0,2,2,0.5121218935012878,C,female survided,2
+1,1,female,31.0,0,2,0.3217983671436256,S,female survided,0
+1,1,female,40.0,1,1,0.2625265161540666,C,female survided,0
+1,1,female,36.0,0,0,0.2647385704347907,C,female survided,0
+1,2,female,36.0,0,0,0.0253743101115454,S,female survided,0
+1,1,female,16.0,0,1,0.1131678616014859,C,female survided,2
+0,1,male,45.5,0,0,0.0556282952445419,S, younger men  not survival,1
+0,1,male,38.0,0,1,0.2995388511917728,S, younger men  not survival,0
+1,1,female,41.0,0,0,0.2625265161540666,C,female survided,0
+0,1,male,45.0,0,0,0.0692913853046049,S, younger men  not survival,1
+1,2,female,24.0,0,0,0.0253743101115454,S,female survided,2
+1,1,female,22.0,0,1,0.1073528504719231,S,female survided,2
+1,1,female,60.0,1,0,0.1468782181456766,C,female survided,1
+1,1,female,24.0,0,0,0.1352645915946231,C,female survided,2
+1,1,male,25.0,1,0,0.1082149914547131,C,male survided,2
+0,1,male,27.0,0,2,0.4128205068147589,C, younger men  not survival,0
+1,1,male,36.0,1,2,0.2342244010296504,S,male survided,0
+1,3,male,32.0,0,0,0.0157125535690723,S,male survided,0
+1,1,male,28.0,0,0,0.0518221487278101,S,male survided,0
+0,1,male,50.0,1,0,0.1091095334796455,S, younger men  not survival,1
+1,1,male,4.0,0,2,0.1597767607233786,S,male survided,2
+1,1,male,52.0,0,0,0.0595320352617028,S,male survided,1
+0,1,male,30.0,0,0,0.0541643927381066,C, younger men  not survival,0
+1,1,male,49.0,1,0,0.1739198156185515,C,male survided,1
+0,1,male,65.0,0,0,0.0518221487278101,S, younger men  not survival,1
+1,1,male,48.0,0,0,0.0518221487278101,S,male survided,1
+0,1,male,47.0,0,0,0.0751469953303461,S, younger men  not survival,1
+1,2,female,23.0,0,0,0.0269196055973385,C,female survided,2
+0,1,male,58.0,0,0,0.0579705392548384,C, younger men  not survival,1
+0,1,male,55.0,0,0,0.0595320352617028,S, younger men  not survival,1
+1,1,female,54.0,1,0,0.1527664244005612,C,female survided,1
+1,1,female,16.0,0,0,0.1688367557422063,S,female survided,2
+1,1,male,36.0,0,0,0.0513097828505578,S,male survided,0
+0,1,male,47.0,0,0,0.0664041791879127,S, younger men  not survival,1
+1,2,female,34.0,0,0,0.0204946350900944,S,female survided,0
+1,1,female,30.0,0,0,0.1824998458022693,S,female survided,0
+0,1,male,45.0,0,0,0.0518221487278101,S, younger men  not survival,1
+1,1,female,22.0,0,2,0.0966175654247308,C,female survided,2
+1,1,female,36.0,0,2,0.1385827706092098,S,female survided,0
+0,1,male,50.0,1,0,0.2077277656631712,C, younger men  not survival,1
+1,1,male,17.0,0,2,0.2164297877224253,C,male survided,2
+1,1,female,48.0,1,0,0.0772940523397846,C,female survided,1
+1,1,female,53.0,2,0,0.1004807065457131,S,female survided,1
+1,1,male,36.0,0,0,0.0515049698514158,S,male survided,0
+1,1,female,39.0,1,1,0.2164297877224253,C,female survided,0
+0,1,male,36.0,0,0,0.0783187840942893,C, younger men  not survival,0
+1,1,female,18.0,0,2,0.1554664461834305,S,female survided,2
+1,1,male,60.0,1,1,0.1545881046795693,C,male survided,1
+1,1,male,49.0,1,0,0.1111183980924764,C,male survided,1
+1,1,male,42.0,1,0,0.1025789668049371,S,male survided,0
+0,1,male,61.0,0,0,0.063086000173326,S, younger men  not survival,1
+1,1,female,21.0,0,0,0.1521644676899149,S,female survided,2
+1,1,male,80.0,0,0,0.0585561002574126,S,male survided,1
+1,1,male,32.0,0,0,0.0595320352617028,C,male survided,0
+1,1,male,56.0,0,0,0.0692913853046049,C,male survided,1
+0,1,male,58.0,0,2,0.2210980752219471,C, younger men  not survival,1
+0,1,male,47.0,0,0,0.0499434738445515,S, younger men  not survival,1
+0,1,male,31.0,1,0,0.1014972404461818,S, younger men  not survival,0
+1,1,male,36.0,0,1,1.0,C,male survided,0
+1,1,male,27.0,0,0,0.1497654242623688,C,male survided,0
+1,1,female,15.0,0,1,0.4125033279383646,S,female survided,2
+1,1,male,31.0,1,0,0.1112565904890839,S,male survided,0
+0,3,male,42.0,0,0,0.0149318055656402,S, younger men  not survival,0
+1,1,female,18.0,1,0,0.4440992237022602,C,female survided,2
+1,1,male,35.0,0,0,0.0513097828505578,S,male survided,0
+1,1,male,42.0,0,0,0.0513097828505578,S,male survided,0
+1,1,female,24.0,0,0,0.0966257632787668,C,female survided,2
+1,1,male,48.0,1,0,0.1014972404461818,S,male survided,1
+0,3,male,19.0,0,0,0.0149318055656402,S, younger men  not survival,2
+1,1,female,38.0,0,0,0.4440992237022602,C,female survided,0
+1,2,female,27.0,0,0,0.0204946350900944,S,female survided,0
+1,1,male,27.0,1,0,0.1036442974556203,S,male survided,0
+1,1,male,35.0,0,0,1.0,C,male survided,0
+0,1,male,36.0,1,0,0.1539049501765661,S, younger men  not survival,0
+0,1,male,19.0,1,0,0.1036442974556203,S, younger men  not survival,2
+1,3,male,6.0,0,1,0.0243495783570407,S,male survided,2
+1,1,female,51.0,1,0,0.1521644676899149,S,female survided,1
+0,2,female,57.0,0,0,0.0204946350900944,S, younger not women survival,1
+1,1,female,43.0,0,1,0.4125033279383646,S,female survided,0
+0,1,male,29.0,0,0,0.0585561002574126,S, younger men  not survival,0
+0,1,male,46.0,0,0,0.1545881046795693,C, younger men  not survival,1
+1,1,female,49.0,0,0,0.0506104278264834,S,female survided,1
+0,1,male,39.0,0,0,0.0,S, younger men  not survival,0
+1,1,female,52.0,1,1,0.1824998458022693,S,female survided,1
+1,1,female,39.0,1,1,0.1623141917345331,C,female survided,0
+1,1,female,16.0,0,1,0.0769036783380685,S,female survided,2
+1,1,male,51.0,0,0,0.0518221487278101,S,male survided,1
+1,1,female,48.0,0,0,0.0506104278264834,S,female survided,1
+0,1,male,31.0,0,0,0.0985612375792752,S, younger men  not survival,0
+0,1,male,33.0,0,0,0.0097593500429021,S, younger men  not survival,0
+1,1,female,56.0,0,1,0.1623141917345331,C,female survided,1
+1,1,female,19.0,0,0,0.0585561002574126,S,female survided,2
+1,1,male,26.0,0,0,0.0585561002574126,C,male survided,2
